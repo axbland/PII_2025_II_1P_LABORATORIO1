@@ -46,16 +46,34 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="JuegoDiario.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="JuegoDiario.Designer.cs">
+      <DependentUpon>JuegoDiario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="JuegoMensual.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JuegoMensual.Designer.cs">
+      <DependentUpon>JuegoMensual.cs</DependentUpon>
+    </Compile>
+    <Compile Include="JuegoSemanal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JuegoSemanal.Designer.cs">
+      <DependentUpon>JuegoSemanal.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="JuegoDiario.resx">
+      <DependentUpon>JuegoDiario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JuegoMensual.resx">
+      <DependentUpon>JuegoMensual.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JuegoSemanal.resx">
+      <DependentUpon>JuegoSemanal.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
