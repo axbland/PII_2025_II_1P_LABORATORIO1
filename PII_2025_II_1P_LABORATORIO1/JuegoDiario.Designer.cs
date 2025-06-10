@@ -30,13 +30,19 @@
         {
             this.txtNumero2 = new System.Windows.Forms.TextBox();
             this.lblNumero2 = new System.Windows.Forms.Label();
-            this.lblJuegoSemanal = new System.Windows.Forms.Label();
+            this.lblJuegoDiario = new System.Windows.Forms.Label();
             this.btnJugar = new System.Windows.Forms.Button();
             this.btnVender = new System.Windows.Forms.Button();
             this.txtNumero1 = new System.Windows.Forms.TextBox();
             this.lblNumero1 = new System.Windows.Forms.Label();
             this.txtNombre = new System.Windows.Forms.TextBox();
             this.lblNombre = new System.Windows.Forms.Label();
+            this.txtNumero4 = new System.Windows.Forms.TextBox();
+            this.lblNumero4 = new System.Windows.Forms.Label();
+            this.txtNumero3 = new System.Windows.Forms.TextBox();
+            this.lblNumero3 = new System.Windows.Forms.Label();
+            this.txtNumero5 = new System.Windows.Forms.TextBox();
+            this.lblNumero5 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // txtNumero2
@@ -55,18 +61,18 @@
             this.lblNumero2.TabIndex = 23;
             this.lblNumero2.Text = "Segundo numero a comprar (0-100)";
             // 
-            // lblJuegoSemanal
+            // lblJuegoDiario
             // 
-            this.lblJuegoSemanal.AutoSize = true;
-            this.lblJuegoSemanal.Location = new System.Drawing.Point(249, 40);
-            this.lblJuegoSemanal.Name = "lblJuegoSemanal";
-            this.lblJuegoSemanal.Size = new System.Drawing.Size(80, 13);
-            this.lblJuegoSemanal.TabIndex = 22;
-            this.lblJuegoSemanal.Text = "Juego Semanal";
+            this.lblJuegoDiario.AutoSize = true;
+            this.lblJuegoDiario.Location = new System.Drawing.Point(249, 40);
+            this.lblJuegoDiario.Name = "lblJuegoDiario";
+            this.lblJuegoDiario.Size = new System.Drawing.Size(66, 13);
+            this.lblJuegoDiario.TabIndex = 22;
+            this.lblJuegoDiario.Text = "Juego Diario";
             // 
             // btnJugar
             // 
-            this.btnJugar.Location = new System.Drawing.Point(363, 246);
+            this.btnJugar.Location = new System.Drawing.Point(363, 323);
             this.btnJugar.Name = "btnJugar";
             this.btnJugar.Size = new System.Drawing.Size(82, 38);
             this.btnJugar.TabIndex = 21;
@@ -75,12 +81,13 @@
             // 
             // btnVender
             // 
-            this.btnVender.Location = new System.Drawing.Point(166, 246);
+            this.btnVender.Location = new System.Drawing.Point(166, 323);
             this.btnVender.Name = "btnVender";
             this.btnVender.Size = new System.Drawing.Size(92, 38);
             this.btnVender.TabIndex = 20;
             this.btnVender.Text = "Vender";
             this.btnVender.UseVisualStyleBackColor = true;
+            this.btnVender.Click += new System.EventHandler(this.btnVender_Click);
             // 
             // txtNumero1
             // 
@@ -114,14 +121,68 @@
             this.lblNombre.TabIndex = 16;
             this.lblNombre.Text = "Nombre del comprador:";
             // 
+            // txtNumero4
+            // 
+            this.txtNumero4.Location = new System.Drawing.Point(273, 230);
+            this.txtNumero4.Name = "txtNumero4";
+            this.txtNumero4.Size = new System.Drawing.Size(110, 20);
+            this.txtNumero4.TabIndex = 28;
+            // 
+            // lblNumero4
+            // 
+            this.lblNumero4.AutoSize = true;
+            this.lblNumero4.Location = new System.Drawing.Point(98, 233);
+            this.lblNumero4.Name = "lblNumero4";
+            this.lblNumero4.Size = new System.Drawing.Size(162, 13);
+            this.lblNumero4.TabIndex = 27;
+            this.lblNumero4.Text = "Cuarto numero a comprar (0-100)";
+            // 
+            // txtNumero3
+            // 
+            this.txtNumero3.Location = new System.Drawing.Point(273, 194);
+            this.txtNumero3.Name = "txtNumero3";
+            this.txtNumero3.Size = new System.Drawing.Size(110, 20);
+            this.txtNumero3.TabIndex = 26;
+            // 
+            // lblNumero3
+            // 
+            this.lblNumero3.AutoSize = true;
+            this.lblNumero3.Location = new System.Drawing.Point(98, 197);
+            this.lblNumero3.Name = "lblNumero3";
+            this.lblNumero3.Size = new System.Drawing.Size(162, 13);
+            this.lblNumero3.TabIndex = 25;
+            this.lblNumero3.Text = "Tercer numero a comprar (0-100)";
+            // 
+            // txtNumero5
+            // 
+            this.txtNumero5.Location = new System.Drawing.Point(271, 264);
+            this.txtNumero5.Name = "txtNumero5";
+            this.txtNumero5.Size = new System.Drawing.Size(110, 20);
+            this.txtNumero5.TabIndex = 30;
+            // 
+            // lblNumero5
+            // 
+            this.lblNumero5.AutoSize = true;
+            this.lblNumero5.Location = new System.Drawing.Point(96, 267);
+            this.lblNumero5.Name = "lblNumero5";
+            this.lblNumero5.Size = new System.Drawing.Size(162, 13);
+            this.lblNumero5.TabIndex = 29;
+            this.lblNumero5.Text = "Quinto numero a comprar (0-100)";
+            // 
             // JuegoDiario
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(690, 413);
+            this.ClientSize = new System.Drawing.Size(617, 413);
+            this.Controls.Add(this.txtNumero5);
+            this.Controls.Add(this.lblNumero5);
+            this.Controls.Add(this.txtNumero4);
+            this.Controls.Add(this.lblNumero4);
+            this.Controls.Add(this.txtNumero3);
+            this.Controls.Add(this.lblNumero3);
             this.Controls.Add(this.txtNumero2);
             this.Controls.Add(this.lblNumero2);
-            this.Controls.Add(this.lblJuegoSemanal);
+            this.Controls.Add(this.lblJuegoDiario);
             this.Controls.Add(this.btnJugar);
             this.Controls.Add(this.btnVender);
             this.Controls.Add(this.txtNumero1);
@@ -139,12 +200,18 @@
 
         private System.Windows.Forms.TextBox txtNumero2;
         private System.Windows.Forms.Label lblNumero2;
-        private System.Windows.Forms.Label lblJuegoSemanal;
+        private System.Windows.Forms.Label lblJuegoDiario;
         private System.Windows.Forms.Button btnJugar;
         private System.Windows.Forms.Button btnVender;
         private System.Windows.Forms.TextBox txtNumero1;
         private System.Windows.Forms.Label lblNumero1;
         private System.Windows.Forms.TextBox txtNombre;
         private System.Windows.Forms.Label lblNombre;
+        private System.Windows.Forms.TextBox txtNumero4;
+        private System.Windows.Forms.Label lblNumero4;
+        private System.Windows.Forms.TextBox txtNumero3;
+        private System.Windows.Forms.Label lblNumero3;
+        private System.Windows.Forms.TextBox txtNumero5;
+        private System.Windows.Forms.Label lblNumero5;
     }
 }

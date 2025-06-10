@@ -56,7 +56,6 @@ namespace PII_2025_II_1P_LABORATORIO1
                 return;
             }
 
-            // Validar que ningún número esté ya vendido
             bool numero1Ocupado = compradoresSemanal.Any(c => c.Numero1 == numero1 || c.Numero2 == numero1);
             bool numero2Ocupado = compradoresSemanal.Any(c => c.Numero1 == numero2 || c.Numero2 == numero2);
 
