@@ -282,11 +282,11 @@
             // 
             this.lblNotaM.AutoSize = true;
             this.lblNotaM.ForeColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.lblNotaM.Location = new System.Drawing.Point(277, 125);
+            this.lblNotaM.Location = new System.Drawing.Point(212, 125);
             this.lblNotaM.Name = "lblNotaM";
-            this.lblNotaM.Size = new System.Drawing.Size(122, 13);
+            this.lblNotaM.Size = new System.Drawing.Size(226, 13);
             this.lblNotaM.TabIndex = 47;
-            this.lblNotaM.Text = "Nota: Máximo 1 número.";
+            this.lblNotaM.Text = "Nota: Solamente se aceptan números enteros.";
             // 
             // btnJugarM
             // 
@@ -312,7 +312,7 @@
             // 
             this.txtNumeroM.Location = new System.Drawing.Point(164, 122);
             this.txtNumeroM.Name = "txtNumeroM";
-            this.txtNumeroM.Size = new System.Drawing.Size(96, 20);
+            this.txtNumeroM.Size = new System.Drawing.Size(42, 20);
             this.txtNumeroM.TabIndex = 44;
             // 
             // lblNumeroM
