@@ -3,28 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Arabella\\Documents\\UJCV - Programacion II\\PII_2025_II_1P_LABORATORIO1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DDC55ED6-1235-42D1-A07C-FFC37F22FE55}|PII_2025_II_1P_LABORATORIO1\\PII_2025_II_1P_LABORATORIO1.csproj|C:\\Users\\Arabella\\Documents\\UJCV - Programacion II\\PII_2025_II_1P_LABORATORIO1\\pii_2025_ii_1p_laboratorio1\\juegomensual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DDC55ED6-1235-42D1-A07C-FFC37F22FE55}|PII_2025_II_1P_LABORATORIO1\\PII_2025_II_1P_LABORATORIO1.csproj|solutionrelative:pii_2025_ii_1p_laboratorio1\\juegomensual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{DDC55ED6-1235-42D1-A07C-FFC37F22FE55}|PII_2025_II_1P_LABORATORIO1\\PII_2025_II_1P_LABORATORIO1.csproj|c:\\users\\arabella\\documents\\ujcv - programacion ii\\pii_2025_ii_1p_laboratorio1\\pii_2025_ii_1p_laboratorio1\\loteria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDC55ED6-1235-42D1-A07C-FFC37F22FE55}|PII_2025_II_1P_LABORATORIO1\\PII_2025_II_1P_LABORATORIO1.csproj|solutionrelative:pii_2025_ii_1p_laboratorio1\\loteria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DDC55ED6-1235-42D1-A07C-FFC37F22FE55}|PII_2025_II_1P_LABORATORIO1\\PII_2025_II_1P_LABORATORIO1.csproj|C:\\Users\\Arabella\\Documents\\UJCV - Programacion II\\PII_2025_II_1P_LABORATORIO1\\pii_2025_ii_1p_laboratorio1\\juegosemanal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DDC55ED6-1235-42D1-A07C-FFC37F22FE55}|PII_2025_II_1P_LABORATORIO1\\PII_2025_II_1P_LABORATORIO1.csproj|solutionrelative:pii_2025_ii_1p_laboratorio1\\juegosemanal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DDC55ED6-1235-42D1-A07C-FFC37F22FE55}|PII_2025_II_1P_LABORATORIO1\\PII_2025_II_1P_LABORATORIO1.csproj|C:\\Users\\Arabella\\Documents\\UJCV - Programacion II\\PII_2025_II_1P_LABORATORIO1\\pii_2025_ii_1p_laboratorio1\\juegosemanal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDC55ED6-1235-42D1-A07C-FFC37F22FE55}|PII_2025_II_1P_LABORATORIO1\\PII_2025_II_1P_LABORATORIO1.csproj|solutionrelative:pii_2025_ii_1p_laboratorio1\\juegosemanal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DDC55ED6-1235-42D1-A07C-FFC37F22FE55}|PII_2025_II_1P_LABORATORIO1\\PII_2025_II_1P_LABORATORIO1.csproj|C:\\Users\\Arabella\\Documents\\UJCV - Programacion II\\PII_2025_II_1P_LABORATORIO1\\pii_2025_ii_1p_laboratorio1\\juegomensual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDC55ED6-1235-42D1-A07C-FFC37F22FE55}|PII_2025_II_1P_LABORATORIO1\\PII_2025_II_1P_LABORATORIO1.csproj|solutionrelative:pii_2025_ii_1p_laboratorio1\\juegomensual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DDC55ED6-1235-42D1-A07C-FFC37F22FE55}|PII_2025_II_1P_LABORATORIO1\\PII_2025_II_1P_LABORATORIO1.csproj|c:\\users\\arabella\\documents\\ujcv - programacion ii\\pii_2025_ii_1p_laboratorio1\\pii_2025_ii_1p_laboratorio1\\juegodiario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DDC55ED6-1235-42D1-A07C-FFC37F22FE55}|PII_2025_II_1P_LABORATORIO1\\PII_2025_II_1P_LABORATORIO1.csproj|solutionrelative:pii_2025_ii_1p_laboratorio1\\juegodiario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DDC55ED6-1235-42D1-A07C-FFC37F22FE55}|PII_2025_II_1P_LABORATORIO1\\PII_2025_II_1P_LABORATORIO1.csproj|c:\\users\\arabella\\documents\\ujcv - programacion ii\\pii_2025_ii_1p_laboratorio1\\pii_2025_ii_1p_laboratorio1\\juegodiario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDC55ED6-1235-42D1-A07C-FFC37F22FE55}|PII_2025_II_1P_LABORATORIO1\\PII_2025_II_1P_LABORATORIO1.csproj|solutionrelative:pii_2025_ii_1p_laboratorio1\\juegodiario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DDC55ED6-1235-42D1-A07C-FFC37F22FE55}|PII_2025_II_1P_LABORATORIO1\\PII_2025_II_1P_LABORATORIO1.csproj|c:\\users\\arabella\\documents\\ujcv - programacion ii\\pii_2025_ii_1p_laboratorio1\\pii_2025_ii_1p_laboratorio1\\loteria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDC55ED6-1235-42D1-A07C-FFC37F22FE55}|PII_2025_II_1P_LABORATORIO1\\PII_2025_II_1P_LABORATORIO1.csproj|solutionrelative:pii_2025_ii_1p_laboratorio1\\loteria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,81 +18,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "JuegoDiario.cs",
-              "DocumentMoniker": "C:\\Users\\Arabella\\Documents\\UJCV - Programacion II\\PII_2025_II_1P_LABORATORIO1\\PII_2025_II_1P_LABORATORIO1\\JuegoDiario.cs",
-              "RelativeDocumentMoniker": "PII_2025_II_1P_LABORATORIO1\\JuegoDiario.cs",
-              "ToolTip": "C:\\Users\\Arabella\\Documents\\UJCV - Programacion II\\PII_2025_II_1P_LABORATORIO1\\PII_2025_II_1P_LABORATORIO1\\JuegoDiario.cs",
-              "RelativeToolTip": "PII_2025_II_1P_LABORATORIO1\\JuegoDiario.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAFwAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Loteria.cs",
+              "DocumentMoniker": "C:\\Users\\Arabella\\Documents\\UJCV - Programacion II\\PII_2025_II_1P_LABORATORIO1\\PII_2025_II_1P_LABORATORIO1\\Loteria.cs",
+              "RelativeDocumentMoniker": "PII_2025_II_1P_LABORATORIO1\\Loteria.cs",
+              "ToolTip": "C:\\Users\\Arabella\\Documents\\UJCV - Programacion II\\PII_2025_II_1P_LABORATORIO1\\PII_2025_II_1P_LABORATORIO1\\Loteria.cs",
+              "RelativeToolTip": "PII_2025_II_1P_LABORATORIO1\\Loteria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMBAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T00:46:52.155Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "JuegoDiario.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Arabella\\Documents\\UJCV - Programacion II\\PII_2025_II_1P_LABORATORIO1\\PII_2025_II_1P_LABORATORIO1\\JuegoDiario.cs",
-              "RelativeDocumentMoniker": "PII_2025_II_1P_LABORATORIO1\\JuegoDiario.cs",
-              "ToolTip": "C:\\Users\\Arabella\\Documents\\UJCV - Programacion II\\PII_2025_II_1P_LABORATORIO1\\PII_2025_II_1P_LABORATORIO1\\JuegoDiario.cs [Dise\u00F1o]",
-              "RelativeToolTip": "PII_2025_II_1P_LABORATORIO1\\JuegoDiario.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T23:57:59.459Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "JuegoMensual.cs",
-              "DocumentMoniker": "C:\\Users\\Arabella\\Documents\\UJCV - Programacion II\\PII_2025_II_1P_LABORATORIO1\\PII_2025_II_1P_LABORATORIO1\\JuegoMensual.cs",
-              "RelativeDocumentMoniker": "PII_2025_II_1P_LABORATORIO1\\JuegoMensual.cs",
-              "ToolTip": "C:\\Users\\Arabella\\Documents\\UJCV - Programacion II\\PII_2025_II_1P_LABORATORIO1\\PII_2025_II_1P_LABORATORIO1\\JuegoMensual.cs",
-              "RelativeToolTip": "PII_2025_II_1P_LABORATORIO1\\JuegoMensual.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAwwBIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T21:19:36.616Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "JuegoSemanal.cs",
-              "DocumentMoniker": "C:\\Users\\Arabella\\Documents\\UJCV - Programacion II\\PII_2025_II_1P_LABORATORIO1\\PII_2025_II_1P_LABORATORIO1\\JuegoSemanal.cs",
-              "RelativeDocumentMoniker": "PII_2025_II_1P_LABORATORIO1\\JuegoSemanal.cs",
-              "ToolTip": "C:\\Users\\Arabella\\Documents\\UJCV - Programacion II\\PII_2025_II_1P_LABORATORIO1\\PII_2025_II_1P_LABORATORIO1\\JuegoSemanal.cs",
-              "RelativeToolTip": "PII_2025_II_1P_LABORATORIO1\\JuegoSemanal.cs",
-              "ViewState": "AgIAAFYAAAAAAAAAAAAuwDkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T21:17:43.544Z",
+              "WhenOpened": "2025-06-10T02:19:34.415Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "JuegoSemanal.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Arabella\\Documents\\UJCV - Programacion II\\PII_2025_II_1P_LABORATORIO1\\PII_2025_II_1P_LABORATORIO1\\JuegoSemanal.cs",
-              "RelativeDocumentMoniker": "PII_2025_II_1P_LABORATORIO1\\JuegoSemanal.cs",
-              "ToolTip": "C:\\Users\\Arabella\\Documents\\UJCV - Programacion II\\PII_2025_II_1P_LABORATORIO1\\PII_2025_II_1P_LABORATORIO1\\JuegoSemanal.cs [Dise\u00F1o]",
-              "RelativeToolTip": "PII_2025_II_1P_LABORATORIO1\\JuegoSemanal.cs [Dise\u00F1o]",
+              "Title": "Loteria.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Arabella\\Documents\\UJCV - Programacion II\\PII_2025_II_1P_LABORATORIO1\\PII_2025_II_1P_LABORATORIO1\\Loteria.cs",
+              "RelativeDocumentMoniker": "PII_2025_II_1P_LABORATORIO1\\Loteria.cs",
+              "ToolTip": "C:\\Users\\Arabella\\Documents\\UJCV - Programacion II\\PII_2025_II_1P_LABORATORIO1\\PII_2025_II_1P_LABORATORIO1\\Loteria.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PII_2025_II_1P_LABORATORIO1\\Loteria.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T19:53:47.642Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "JuegoMensual.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Arabella\\Documents\\UJCV - Programacion II\\PII_2025_II_1P_LABORATORIO1\\PII_2025_II_1P_LABORATORIO1\\JuegoMensual.cs",
-              "RelativeDocumentMoniker": "PII_2025_II_1P_LABORATORIO1\\JuegoMensual.cs",
-              "ToolTip": "C:\\Users\\Arabella\\Documents\\UJCV - Programacion II\\PII_2025_II_1P_LABORATORIO1\\PII_2025_II_1P_LABORATORIO1\\JuegoMensual.cs [Dise\u00F1o]",
-              "RelativeToolTip": "PII_2025_II_1P_LABORATORIO1\\JuegoMensual.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T19:43:10.188Z",
+              "WhenOpened": "2025-06-10T02:15:17.05Z",
               "EditorCaption": " [Dise\u00F1o]"
             }
           ]

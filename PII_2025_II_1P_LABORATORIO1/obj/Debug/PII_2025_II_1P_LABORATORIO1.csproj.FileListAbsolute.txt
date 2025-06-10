@@ -15,7 +15,6 @@ C:\Users\Arabella\Documents\UJCV - Programacion II\PII_2025_II_1P_LABORATORIO1\P
 C:\Users\Arabella\Documents\UJCV - Programacion II\PII_2025_II_1P_LABORATORIO1\PII_2025_II_1P_LABORATORIO1\obj\Debug\PII_2025_II_1P_LABORATORIO1.csproj.AssemblyReference.cache
 C:\Users\Arabella\Documents\UJCV - Programacion II\PII_2025_II_1P_LABORATORIO1\PII_2025_II_1P_LABORATORIO1\obj\Debug\PII_2025_II_1P_LABORATORIO1.exe.config
 C:\Users\Arabella\Documents\UJCV - Programacion II\PII_2025_II_1P_LABORATORIO1\PII_2025_II_1P_LABORATORIO1\obj\Debug\PII_2025_II_1P_LABORATORIO1.frmLoteria.resources
-C:\Users\Arabella\Documents\UJCV - Programacion II\PII_2025_II_1P_LABORATORIO1\PII_2025_II_1P_LABORATORIO1\obj\Debug\PII_2025_II_1P_LABORATORIO1.JuegoSemanal.resources
 C:\Users\Arabella\Documents\UJCV - Programacion II\PII_2025_II_1P_LABORATORIO1\PII_2025_II_1P_LABORATORIO1\obj\Debug\PII_2025_II_1P_LABORATORIO1.Properties.Resources.resources
 C:\Users\Arabella\Documents\UJCV - Programacion II\PII_2025_II_1P_LABORATORIO1\PII_2025_II_1P_LABORATORIO1\obj\Debug\PII_2025_II_1P_LABORATORIO1.csproj.GenerateResource.cache
 C:\Users\Arabella\Documents\UJCV - Programacion II\PII_2025_II_1P_LABORATORIO1\PII_2025_II_1P_LABORATORIO1\obj\Debug\PII_2025_II_1P_LABORATORIO1.csproj.CoreCompileInputs.cache
