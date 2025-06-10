@@ -64,6 +64,12 @@
     <Compile Include="JuegoSemanal.Designer.cs">
       <DependentUpon>JuegoSemanal.cs</DependentUpon>
     </Compile>
+    <Compile Include="Loteria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Loteria.Designer.cs">
+      <DependentUpon>Loteria.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="JuegoDiario.resx">
@@ -74,6 +80,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="JuegoSemanal.resx">
       <DependentUpon>JuegoSemanal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Loteria.resx">
+      <DependentUpon>Loteria.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

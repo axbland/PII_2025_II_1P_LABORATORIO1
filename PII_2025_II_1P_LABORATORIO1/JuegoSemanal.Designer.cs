@@ -1,6 +1,6 @@
 ﻿namespace PII_2025_II_1P_LABORATORIO1
 {
-    partial class JuegoSemanal
+    partial class frmJuegoSemanal
     {
         /// <summary>
         /// Required designer variable.
@@ -116,7 +116,7 @@
             this.lblNumero2.TabIndex = 14;
             this.lblNumero2.Text = "Segundo numero a comprar (0-100)";
             // 
-            // JuegoSemanal
+            // frmJuegoSemanal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -130,7 +130,7 @@
             this.Controls.Add(this.lblNumero1);
             this.Controls.Add(this.txtNombre);
             this.Controls.Add(this.lblNombre);
-            this.Name = "JuegoSemanal";
+            this.Name = "frmJuegoSemanal";
             this.Text = "JuegoSemanal";
             this.ResumeLayout(false);
             this.PerformLayout();

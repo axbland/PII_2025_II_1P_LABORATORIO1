@@ -27,7 +27,7 @@ namespace PII_2025_II_1P_LABORATORIO1
 
         private void btnVender_Click(object sender, EventArgs e)
         {
-            string nombre = txtNombre.Text;
+            string nombre = txtNombreD.Text;
             int numero;
 
             if (nombre == "")
@@ -53,7 +53,7 @@ namespace PII_2025_II_1P_LABORATORIO1
                 boletos[numero] = nombre;
                 MessageBox.Show(nombre + " compró el número " + numero);
 
-                txtNombre.Text = "";
+                txtNombreD.Text = "";
                 txtNumero.Text = "";
             }
             else

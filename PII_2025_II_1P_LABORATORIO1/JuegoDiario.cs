@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace PII_2025_II_1P_LABORATORIO1
 {
-    public partial class JuegoDiario : Form
+    public partial class frmJuegoDiario : Form
     {
-        public JuegoDiario()
+        public frmJuegoDiario()
         {
             InitializeComponent();
         }

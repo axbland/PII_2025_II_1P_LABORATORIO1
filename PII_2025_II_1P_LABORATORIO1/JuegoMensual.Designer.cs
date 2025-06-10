@@ -28,30 +28,30 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.lblNombre = new System.Windows.Forms.Label();
-            this.txtNombre = new System.Windows.Forms.TextBox();
+            this.lblNombreD = new System.Windows.Forms.Label();
+            this.txtNombreD = new System.Windows.Forms.TextBox();
             this.lblNumero = new System.Windows.Forms.Label();
             this.txtNumero = new System.Windows.Forms.TextBox();
-            this.btnVender = new System.Windows.Forms.Button();
-            this.btnJugar = new System.Windows.Forms.Button();
+            this.btnVenderD = new System.Windows.Forms.Button();
+            this.btnJugarD = new System.Windows.Forms.Button();
             this.lblJuegoMensual = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // lblNombre
             // 
-            this.lblNombre.AutoSize = true;
-            this.lblNombre.Location = new System.Drawing.Point(57, 81);
-            this.lblNombre.Name = "lblNombre";
-            this.lblNombre.Size = new System.Drawing.Size(117, 13);
-            this.lblNombre.TabIndex = 0;
-            this.lblNombre.Text = "Nombre del comprador:";
+            this.lblNombreD.AutoSize = true;
+            this.lblNombreD.Location = new System.Drawing.Point(57, 81);
+            this.lblNombreD.Name = "lblNombre";
+            this.lblNombreD.Size = new System.Drawing.Size(117, 13);
+            this.lblNombreD.TabIndex = 0;
+            this.lblNombreD.Text = "Nombre del comprador:";
             // 
             // txtNombre
             // 
-            this.txtNombre.Location = new System.Drawing.Point(180, 78);
-            this.txtNombre.Name = "txtNombre";
-            this.txtNombre.Size = new System.Drawing.Size(284, 20);
-            this.txtNombre.TabIndex = 1;
+            this.txtNombreD.Location = new System.Drawing.Point(180, 78);
+            this.txtNombreD.Name = "txtNombre";
+            this.txtNombreD.Size = new System.Drawing.Size(284, 20);
+            this.txtNombreD.TabIndex = 1;
             // 
             // lblNumero
             // 
@@ -72,23 +72,23 @@
             // 
             // btnVender
             // 
-            this.btnVender.Location = new System.Drawing.Point(118, 191);
-            this.btnVender.Name = "btnVender";
-            this.btnVender.Size = new System.Drawing.Size(92, 38);
-            this.btnVender.TabIndex = 4;
-            this.btnVender.Text = "Vender";
-            this.btnVender.UseVisualStyleBackColor = true;
-            this.btnVender.Click += new System.EventHandler(this.btnVender_Click);
+            this.btnVenderD.Location = new System.Drawing.Point(118, 191);
+            this.btnVenderD.Name = "btnVender";
+            this.btnVenderD.Size = new System.Drawing.Size(92, 38);
+            this.btnVenderD.TabIndex = 4;
+            this.btnVenderD.Text = "Vender";
+            this.btnVenderD.UseVisualStyleBackColor = true;
+            this.btnVenderD.Click += new System.EventHandler(this.btnVender_Click);
             // 
             // btnJugar
             // 
-            this.btnJugar.Location = new System.Drawing.Point(315, 191);
-            this.btnJugar.Name = "btnJugar";
-            this.btnJugar.Size = new System.Drawing.Size(82, 38);
-            this.btnJugar.TabIndex = 5;
-            this.btnJugar.Text = "Jugar";
-            this.btnJugar.UseVisualStyleBackColor = true;
-            this.btnJugar.Click += new System.EventHandler(this.btnJugar_Click);
+            this.btnJugarD.Location = new System.Drawing.Point(315, 191);
+            this.btnJugarD.Name = "btnJugar";
+            this.btnJugarD.Size = new System.Drawing.Size(82, 38);
+            this.btnJugarD.TabIndex = 5;
+            this.btnJugarD.Text = "Jugar";
+            this.btnJugarD.UseVisualStyleBackColor = true;
+            this.btnJugarD.Click += new System.EventHandler(this.btnJugar_Click);
             // 
             // lblJuegoMensual
             // 
@@ -100,19 +100,19 @@
             this.lblJuegoMensual.Text = "Juego Mensual";
             this.lblJuegoMensual.Click += new System.EventHandler(this.lblJuegoMensual_Click);
             // 
-            // frmLoteria
+            // frmJuegoMensual
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(517, 286);
             this.Controls.Add(this.lblJuegoMensual);
-            this.Controls.Add(this.btnJugar);
-            this.Controls.Add(this.btnVender);
+            this.Controls.Add(this.btnJugarD);
+            this.Controls.Add(this.btnVenderD);
             this.Controls.Add(this.txtNumero);
             this.Controls.Add(this.lblNumero);
-            this.Controls.Add(this.txtNombre);
-            this.Controls.Add(this.lblNombre);
-            this.Name = "frmLoteria";
+            this.Controls.Add(this.txtNombreD);
+            this.Controls.Add(this.lblNombreD);
+            this.Name = "frmJuegoMensual";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
@@ -122,12 +122,12 @@
 
         #endregion
 
-        private System.Windows.Forms.Label lblNombre;
-        private System.Windows.Forms.TextBox txtNombre;
+        private System.Windows.Forms.Label lblNombreD;
+        private System.Windows.Forms.TextBox txtNombreD;
         private System.Windows.Forms.Label lblNumero;
         private System.Windows.Forms.TextBox txtNumero;
-        private System.Windows.Forms.Button btnVender;
-        private System.Windows.Forms.Button btnJugar;
+        private System.Windows.Forms.Button btnVenderD;
+        private System.Windows.Forms.Button btnJugarD;
         private System.Windows.Forms.Label lblJuegoMensual;
     }
 }

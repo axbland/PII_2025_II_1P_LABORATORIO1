@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace PII_2025_II_1P_LABORATORIO1
 {
-    public partial class JuegoSemanal : Form
+    public partial class frmJuegoSemanal : Form
     {
         class Comprador
         {
@@ -22,7 +22,7 @@ namespace PII_2025_II_1P_LABORATORIO1
         List<Comprador> compradoresSemanal = new List<Comprador>();
 
 
-        public JuegoSemanal()
+        public frmJuegoSemanal()
         {
             InitializeComponent();
         }
